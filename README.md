@@ -8,6 +8,7 @@
 
 ## Instructions to run the API:
 - Clone the repository and go into that directory
+- Download the model.pkl file from the following link and save in the same directory. (Link: https://drive.google.com/file/d/1sDJV8aFkJrFXxoP7uTjYXUnhBvM7LFc4/view?usp=sharing)
 - Run "python app.py"
 - Access the API by address http://127.0.0.1:5000/
 - Use an application called Postman to test the API. Link for the app: https://www.postman.com/downloads/
